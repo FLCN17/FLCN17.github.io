@@ -12,6 +12,8 @@ body {
 h1 {
   color: #FFF;
   font-size: 2em;
+  font-family: Georgia;
+  text-align: center;
   padding-top: 100px;
   width: 100%;
 }
@@ -21,6 +23,7 @@ h2 {
   color: rgba(255, 255, 255, 0.5);
   font-weight: 100;
   font-size: 22px;
+  font-family: Georgia;
   line-height: 24px;
   padding-bottom: 30px;
   text-align: left;
@@ -31,6 +34,9 @@ p {
   color: AliceBlue;
   line-height: 1.3em;
   text-align: left;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
   width: 100%;
 }
 
@@ -45,6 +51,9 @@ p {
 
 .caption {
   display: block;
+  opacity: .75;
+  background-color: white;
+  color: black;
   font-family: 'Playfair Display', serif;
   font-size: 14px;
   font-style: italic;
@@ -61,7 +70,7 @@ p {
 }
 
 .image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg");
   background-size: cover;
   background-position: center;
   height: 300px;
