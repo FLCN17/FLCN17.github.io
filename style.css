@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Rubik";
-  src: url(resources\fonts\RubikMonoOneregular.ttf) format('truetype');
+  src: local(resources\fonts\RubikMonoOneregular.ttf) format('truetype');
 }
 
 head {
