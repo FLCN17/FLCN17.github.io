@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Rubik";
+  src: url(resources\fonts\RubikMonoOneregular.ttf) format('truetype');
+}
+
 head {
 
 }
@@ -26,15 +31,24 @@ h3{
 }
 
 .banner-top {
-  
+
 }
 
 .top-nav {
 
 }
 
+.header-nav-list {
+  display: inline-block;
+}
+
 .footer-info {
 
+}
+
+#banner h1 {
+  font-family: "Rubik";
+  font-size: 48px;
 }
 
 #copyright {
