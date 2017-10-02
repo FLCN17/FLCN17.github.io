@@ -38,7 +38,7 @@ h3{
 
 }
 
-.header-nav-list {
+.header-nav-list li{
   display: inline;
 }
 
