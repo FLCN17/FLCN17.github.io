@@ -25,7 +25,19 @@ h2{
 h3{
 }
 
+.content-main {
+  width: auto;
+  height: auto;
+}
+
+.side-nav{
+  width: 16%;
+  height: 100%;
+  float: right;
+}
+
 .banner-top {
+  height: 100px;
 }
 
 .top-nav {
@@ -34,24 +46,23 @@ h3{
 .header-nav-list li{
   display: inline;
   font-size: 1.2em;
-  height: 50px;
+  height: 30px;
   width: 100%;
   border-top-width: 2px;
-  border-top-style: double;
-  border-bottom-style: double;
+  border-bottom-width: 2px;
   padding: 2em;
   margin: auto;
 }
 
 .footer-info {
+  height: 50px:
 }
 
 #banner-title h1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8em;
+  font-size: 2.5em;
   text-align: center;
   vertical-align: middle;
-  height: 325px;
   width: 100%;
 }
 
