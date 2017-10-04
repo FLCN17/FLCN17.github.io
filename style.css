@@ -1,58 +1,46 @@
 @font-face {
-  font-family: "Rubik";
-  src: local(resources\fonts\RubikMonoOneregular.ttf) format('truetype');
-}
-/*
-head {
-
+  font-family: 'Rubik', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Rubik:400,700');
 }
 
-body {
+head {}
 
-}
+body {}
 
-footer {
-
-}
+footer {}
 
 p {
-
 }
 
 h1 {
-
 }
-h2{
 
+h2{
 }
 
 h3{
-
 }
 
 .banner-top {
-
 }
 
 .top-nav {
-
 }
-*/
+
 ul.header-nav-list li{
   display: inline;
-  font-size: 48px;
+  font-size: 1.2em;
   color: red;
 }
 
 .footer-info {
-
 }
 
 #banner h1 {
-  font-family: "Rubik", monospace;
-  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.8em;
 }
 
 #copyright {
-
+  font-size: 0.7em
 }
