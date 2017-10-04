@@ -38,7 +38,7 @@ h3{
 
 }
 */
-.header-nav-list li{
+ul.header-nav-list li{
   display: inline;
   font-size: 48px;
   color: red;
