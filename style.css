@@ -31,7 +31,7 @@ h3{
 .top-nav {
 }
 
-ul.header-nav-list li{
+.header-nav-list li{
   display: inline;
   font-size: 1.2em;
   color: red;
@@ -40,7 +40,7 @@ ul.header-nav-list li{
 .footer-info {
 }
 
-#banner h1 {
+#banner-title h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 1.8em;
 }
