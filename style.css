@@ -34,7 +34,13 @@ h3{
 .header-nav-list li{
   display: inline;
   font-size: 1.2em;
-  color: red;
+  height: 50px;
+  width: 100%;
+  border-top-width: 2px;
+  border-top-style: double;
+  border-bottom-style: double;
+  padding: 2em;
+  margin: auto;
 }
 
 .footer-info {
@@ -43,6 +49,10 @@ h3{
 #banner-title h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 1.8em;
+  text-align: center;
+  vertical-align: middle;
+  height: 325px;
+  width: 100%;
 }
 
 #copyright {
