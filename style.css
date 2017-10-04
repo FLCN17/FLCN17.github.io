@@ -1,6 +1,15 @@
 @font-face {
   font-family: 'Rubik', sans-serif;
-  src: url('https://fonts.googleapis.com/css?family=Rubik:400,700');
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'VT323', monospace;
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Trirong', serif;
+  font-family: 'Arvo', serif;
+  font-family: 'Bungee Shade', cursive;
+  font-family: 'Work Sans', sans-serif;
 }
 @font-face {
   font-family: 'Roboto', sans-serif;
