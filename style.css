@@ -2,7 +2,7 @@
   font-family: "Rubik";
   src: local(resources\fonts\RubikMonoOneregular.ttf) format('truetype');
 }
-
+/*
 head {
 
 }
@@ -37,9 +37,11 @@ h3{
 .top-nav {
 
 }
-
+*/
 .header-nav-list li{
   display: inline;
+  font-size: 48px;
+  color: red;
 }
 
 .footer-info {
