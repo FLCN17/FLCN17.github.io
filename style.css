@@ -2,6 +2,10 @@
   font-family: 'Rubik', sans-serif;
   src: url('https://fonts.googleapis.com/css?family=Rubik:400,700');
 }
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src:url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+}
 
 head {}
 
